@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+
+#head{
+    background-color: #0f1111;
+    height: 60px;
+   
+}
+
+a{
+    margin-right: 200px;
+    text-decoration: none;
+}
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
+
+button{
+    background-color: #f08804;
+}
+
+#Sing-In{
+    background-color: #f08804;
+    width: 50px;
+}
+#Login{
+    background-color: #f08804;
+    width: 50px;
+    margin-right: 200px;
+}
+#Acnt{
+    margin-right: 5px;
+}
+#content{
+    height: 700px;
+}
+
+footer{
+    background-color: #0f1111;
+    color: white;
+}
